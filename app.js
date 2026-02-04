@@ -5,7 +5,7 @@
   const recipes = [
     {
       id: 1,
-      title: "Pasta",
+      title: "Pastta",
       ingredients: ["pasta", "tomato", "cheese"]
     },
     {
@@ -123,3 +123,4 @@
   applyFilters();
 
 })();
+
